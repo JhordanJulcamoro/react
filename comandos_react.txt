@@ -1,3 +1,10 @@
+>Comando para compilar SASS
+ - nos ubicamos en la ruta del proyecto sass
+    /Users/jhordan/Documents/study/master_react/react/sass_repaso
+ - ejecutamos el siguiente comando:
+    sass --watch documento_entrada documento_salida
+    sass --watch styles.scss styles.css  
+
 >Creacion de proyecto
 npx create-react-app rick-morty 
 
